@@ -1,6 +1,7 @@
 # 📇 Contact Manager (MERN Stack)
 
-A professional Full-Stack Contact Management application built with the MERN stack (MongoDB, Express, React, Node.js). This app features secure user authentication and a clean, responsive interface for managing personal contacts.
+A professional Full-Stack Contact Management application built with the MERN stack (MongoDB, Express, React, Node.js). 
+This app features secure user authentication and a clean, responsive interface for managing personal contacts.
 
 ## 🚀 Features
 * **User Authentication:** Secure Sign-up and Login functionality using JSON Web Tokens (JWT).
@@ -19,7 +20,8 @@ A professional Full-Stack Contact Management application built with the MERN sta
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[Abhishek123pal]/[contact-manager].git
+   git clone https://github.com/Abhishek123pal/contact-manager.git
+   
 Backend Configuration:
 
 Navigate to the backend folder.
@@ -46,12 +48,13 @@ Create a .env file and add:
 Code snippet
 
 VITE_API_URL=http://localhost:5000
+
 Run the application: npm run dev.
 
 🌐 Live Links
-Frontend App: [Your Vercel URL will go here]
+Frontend App: [https://contact-manager-fronted.vercel.app/]
 
-Backend API: [Your Render URL will go here]
+Backend API: [https://contact-manager-backend-8dgj.onrender.com]
 
 🛡️ License
 Distributed under the MIT License. See LICENSE for more information.
